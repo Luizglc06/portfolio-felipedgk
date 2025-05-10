@@ -21,6 +21,8 @@ portfolio/style.css # Arquivo de estilos = templates: index.html # Página princ
 
 Conecte-se comigo no ([LinkedIn](https://www.linkedin.com/in/felipe-camargo-do-nascimento-a83089248/)) para acompanhar meus projetos e aprendizados!
 
+                      https://felipedgk.github.io/portfolio/
+
 ---
 
 **Este projeto faz parte do desafio intermediário de um Bootcamp, onde aprendemos sobre versionamento com Git, organização de repositórios e integração com plataformas profissionais.**
