@@ -21,7 +21,7 @@ portfolio/style.css # Arquivo de estilos = templates: index.html # Página princ
 
 Conecte-se comigo no ([LinkedIn](https://www.linkedin.com/in/felipe-camargo-do-nascimento-a83089248/)) para acompanhar meus projetos e aprendizados!
 
-                      https://felipedgk.github.io/portfolio/
+https://felipedgk.github.io/portfolio/
 
 ---
 
