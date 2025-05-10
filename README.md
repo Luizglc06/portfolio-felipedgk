@@ -1,14 +1,14 @@
-# 🌐 Portfólio Pessoal - [Seu Nome]
+# 🌐 Portfólio Pessoal - Felipe Camargo Do Nascimento
 
-Bem-vindo ao meu portfólio pessoal! Este repositório contém um site desenvolvido com **Flask e HTML/CSS**, hospedado localmente e projetado para apresentar minhas habilidades, experiências e projetos como estudante de Ciência da Computação.
+Bem-vindo ao meu portfólio pessoal! Este repositório contém um site desenvolvido com **JS/HTML/CSS**, hospedado localmente e projetado para apresentar minhas habilidades, experiências e projetos como estudante de Ciência da Computação.
 
 ## 🧠 Sobre Mim
 
-Sou um estudante apaixonado por tecnologia, com foco em desenvolvimento web, programação e inovação. Este portfólio é uma forma de mostrar quem eu sou, o que estou aprendendo e para onde quero ir.
+Sou um estudante de tecnologia, com foco em desenvolvimento web, programação e inovação. Este portfólio é uma forma de mostrar quem eu sou, o que estou aprendendo e para onde quero ir.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python (Flask)
+- JS
 - HTML5
 - CSS3
 - VS Code
@@ -23,13 +23,13 @@ portfolio/
 ├── templates/
 │ └── index.html # Página principal
 │
-├── app.py # Arquivo principal do Flask
+├── script/
 ├── README.md # Este documento
 └── .gitignore # Ignora arquivos desnecessários
 
 ## 🔗 LinkedIn
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-linkedin) para acompanhar meus projetos e aprendizados!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/felipe-camargo-do-nascimento-a83089248/)) para acompanhar meus projetos e aprendizados!
 
 ---
 
