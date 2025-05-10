@@ -1,13 +1,9 @@
-# portfolio
-│
-├── README.md  ← arquivo que explica o repositório
-├── projetos-academicos/
-│   └── projeto1/
-│       ├── README.md  ← explicação do projeto
-│       └── codigo.py  ← seu código
-├── projetos-pessoais/
-│   └── meu-site/
-│       ├── index.html
-│       └── style.css
-└── docs/
-    └── planejamento.md  ← o que você quer colocar no repositório
+# Portfolio
+
+Este é meu portfólio de projetos pessoais e acadêmicos, com versionamento usando Git e GitHub. Aqui você encontrará meus trabalhos organizados e documentados para fins profissionais e acadêmicos.
+
+## Seções
+
+- 📚 Projetos Acadêmicos
+- 🧪 Projetos Pessoais
+- 🛠️ Documentação e Planejamento
