@@ -15,21 +15,11 @@ Sou um estudante de tecnologia, com foco em desenvolvimento web, programação e
 - Git e GitHub
 
 ## 📁 Estrutura do Projeto
-portfolio/
-│
-├── static/
-│ └── style.css # Arquivo de estilos
-│
-├── templates/
-│ └── index.html # Página principal
-│
-├── script/
-├── README.md # Este documento
-└── .gitignore # Ignora arquivos desnecessários
+portfolio/style.css # Arquivo de estilos = templates: index.html # Página principal = script.js/
 
 ## 🔗 LinkedIn
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/felipe-camargo-do-nascimento-a83089248/)) para acompanhar meus projetos e aprendizados!
+Conecte-se comigo no ([LinkedIn](https://www.linkedin.com/in/felipe-camargo-do-nascimento-a83089248/)) para acompanhar meus projetos e aprendizados!
 
 ---
 
